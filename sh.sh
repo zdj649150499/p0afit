@@ -1,0 +1,1 @@
+gcc p0afit.c  -o p0afit -L/home/zhoudejiang/soft/gsl-2.6/build/lib -I/home/zhoudejiang/soft/gsl-2.6/build/include -lcpgplot -lpgplot -lX11 -lgfortran -lgsl -lgslcblas -lpthread -lpng -lz -lm -Wall
