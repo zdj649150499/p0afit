@@ -5,7 +5,7 @@
 
 
 ## Description
-This is a `C` package for fitting for P0-Acc of binary pulsar in a circular orbit 
+This is a `C` package for fitting for P0-Acc of binary pulsar in a circular orbit, and getting **Pb**, **A1**, and **T0**
 
 ## Principle:
 
